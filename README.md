@@ -5,6 +5,6 @@ The data in file *Therapy_treament_data.R* refer to a clinical trial for the tre
 # Summary of Project 
 The purpose of this project is to investigate how therapy treatment effects differ when using sequential therapy(S) and alternating therapy(A), along with different genders, male(M) and female(F).
 <br />
-The baseline categorical logit model and cumulative logit model are used to analyze the data and whether the gender should be included in the model is discussed in detail.
+The baseline categorical logit model and cumulative logit model are used to analyze the data and whether the gender should be included in the model is discussed in detail. The code is available in file *Therapy_Analysis.rmd* and report in file *Therapy_Analysis_report.pdf*. 
 
 
